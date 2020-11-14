@@ -1,0 +1,109 @@
+.container{
+    width: 100%;
+    height: 800px;
+    background: #FAFAFA;
+    position: relative;
+}
+
+.login-form{
+    width: 350px;
+    height: 450px;
+    background: #FFFFFF;
+    text-align: center;
+    border: 0.5px solid #dbd1d1;
+    position: absolute;
+    top: 100px;
+    right: 300px;
+    
+}
+
+.login-form h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+
+.dacc{
+    width: 350px;
+    height: 50px;
+    background: #FFFFFF;
+    text-align: center;
+    border: 0.5px solid #dbd1d1;
+    position: absolute;
+    top: 560px;
+    right: 300px;
+}
+
+.dacc a{
+    text-decoration: none;
+    color: #6B9CF6;
+    font-size: 18px;
+}
+
+.user{
+    width: 220px;
+    background: #FAFAFA;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background: #FAFAFA;
+}
+
+.pass{
+    width: 220px;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+}
+
+.submit{
+    width: 240px;
+    margin-bottom: 20px;
+    padding: 8px 8px;
+    background-color: #B2DFFC;
+    color: white;
+}
+
+.logf{
+    margin-top: 40px;
+    color: #3877B8;
+    font-size: 18px;
+}
+
+.forgot{
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+
+.forgot a{
+    text-decoration: none;
+}
+
+.getthisapp{
+    width: 350px;
+    text-align: center;
+    position: absolute;
+    top: 630px;
+    left: 840px;
+}
+
+.ios img{
+    width: 150px;
+    position: absolute;
+    top: 18px;
+    left: 20px;
+}
+
+.and img{
+    width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 155px;
+}
+
+.ins img{
+    position: absolute;
+    top: 60px;
+    left: 370px;
+}
